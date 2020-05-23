@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-porto/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-porto/static/js/main.be2e6d49.chunk.js",
+    "main.js.map": "/react-porto/static/js/main.be2e6d49.chunk.js.map",
+    "runtime-main.js": "/react-porto/static/js/runtime-main.827350a4.js",
+    "runtime-main.js.map": "/react-porto/static/js/runtime-main.827350a4.js.map",
+    "static/js/2.770573d9.chunk.js": "/react-porto/static/js/2.770573d9.chunk.js",
+    "static/js/2.770573d9.chunk.js.map": "/react-porto/static/js/2.770573d9.chunk.js.map",
+    "index.html": "/react-porto/index.html",
+    "precache-manifest.1b61cdc0861437b24c56786f985abb9f.js": "/react-porto/precache-manifest.1b61cdc0861437b24c56786f985abb9f.js",
+    "service-worker.js": "/react-porto/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-porto/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.770573d9.chunk.js.LICENSE.txt": "/react-porto/static/js/2.770573d9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-porto/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.827350a4.js",
+    "static/js/2.770573d9.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.be2e6d49.chunk.js"
+  ]
+}
